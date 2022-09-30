@@ -52,4 +52,3 @@ user3.display_info()
 user1.enroll()
 
 user3.spend_points(40)
-
